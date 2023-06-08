@@ -4,7 +4,7 @@ This is a simple Apple Shortcut that will convert all of the notes in your notes
 
 [Get the shortcut here](https://www.icloud.com/shortcuts/5d89cf295ba94429bf5fc22f5b0385b5)
 
-<img width="500" alt="image" src="https://github.com/mgooley/apple-notes-to-markdown-shortcut/assets/6982622/403f28a9-25ea-4b97-9389-97fc57b3732a">
+<img width="500" alt="image" src="https://github.com/mgooley/apple-notes-to-markdown-shortcut/assets/6982622/d5ec8541-39f1-4bda-83d5-d6f71be83e7b">
 
 When you import this shortcut, it will ask where you want to save your exported notes. The exported notes will go into a subfolder called "notes-export" so keep that in mind when selecting a folder.
 
